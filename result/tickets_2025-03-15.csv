@@ -1,0 +1,6 @@
+"Ticket ID",Description,Status,Priority,"Agent ID","Agent Name","Agent Email","Contact ID","Contact Name","Contact Email","Group ID","Group Name","Company ID","Company Name",Comments
+1,"Hi there,",open,normal,25308922502930,"Denis Morozov",den123morozov02@gmail.com,25308943394194,"The Customer",customer@example.com,25308943265682,Support,,,"Hi there,
+2,"Hi, I’m i",open,low,25308922502930,"Denis Morozov",den123morozov02@gmail.com,25308961204754,"Zhang Wei Xu",zhang.weixu@example.com,25308943265682,Support,,,"Hi, I’m i"
+3,"Hi there! L",open,normal,25308922502930,"Denis Morozov",den123morozov02@gmail.com,25308956664722,"Ingrid Van Dijk",ingrid.vandijk@example.com,25308943265682,Support,,,"Hi there! L"
+4,"Hello, I’",open,normal,25308922502930,"Denis Morozov",den123morozov02@gmail.com,25308961204754,"Zhang Wei Xu",zhang.weixu@example.com,25308943265682,Support,,,"Hello, I’"
+5,"Hey there, ",open,normal,25308922502930,"Denis Morozov",den123morozov02@gmail.com,25308956697362,"Soobin Do",soobin.do@example.com,25308943265682,Support,,,"Hey there, "
